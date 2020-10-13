@@ -19,6 +19,6 @@
 </p>
 <br>
 
-[![renanogueiraa's github stats](https://github-readme-stats.vercel.app/api?username=renanogueiraa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanogueiraa&layout=compact&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![renanogueiraa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=renanogueiraa)](https://github.com/anuraghazra/github-readme-stats)
+[![renanogueiraa's github stats](https://github-readme-stats.vercel.app/api?username=renanogueiraa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanogueiraa&layout=compact&theme=dracula&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![renanogueiraa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=renanogueiraa&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
